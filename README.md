@@ -1,5 +1,6 @@
 ## <p style='color:red'>English Home Page</p>
 <font color="red">This is some text!</font>
+These are <b style='color:red'>red words</b>.
 
 The goal of AI Alliance is simple, we just want to make AI free for everyone !
 
