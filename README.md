@@ -1,4 +1,4 @@
-## <p style='color:grey'>English Home Page</p>
+## <p style='color:red'>English Home Page</p>
 
 The goal of AI Alliance is simple, we just want to make AI free for everyone !
 
