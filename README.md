@@ -79,7 +79,7 @@ contact: aialliance.global@gmail.com
 
 #### 前端开发
 * 前端开发可以做什么？可视化和个人人工智能平台最适合你！
-* 你最好能Javascript, PHP, node.js, python其中一门语言；
+* 你最好能掌握Javascript, PHP, node.js, python其中一门语言；
 * 最重要的是要对本组织的愿景高度认同！
 
 
